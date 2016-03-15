@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+This is a test on how to commit changes to GitHub.
